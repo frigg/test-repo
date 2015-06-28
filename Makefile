@@ -1,4 +1,4 @@
 test:
 	@echo "Everything works!"
-	@echo $CI
+	@echo $(CI)
 
